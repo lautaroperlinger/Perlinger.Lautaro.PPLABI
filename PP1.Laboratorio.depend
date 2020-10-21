@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1603288672 source:c:\users\lauta\onedrive\desktop\codeblock ejercicios\trabajos practicos\pp1.laboratorio\main.c
+	<stdio.h>
+	<stdlib.h>
+	"trabajo.h"
+
+1603286277 source:c:\users\lauta\onedrive\desktop\codeblock ejercicios\trabajos practicos\pp1.laboratorio\color.c
+	"Color.h"
+	"stdio.h"
+	"string.h"
+
+1603289644 source:c:\users\lauta\onedrive\desktop\codeblock ejercicios\trabajos practicos\pp1.laboratorio\bicicletas.c
+	"bicicletas.h"
+	"string.h"
+	<stdio.h>
+	<stdlib.h>
+
+1603291933 c:\users\lauta\onedrive\desktop\codeblock ejercicios\trabajos practicos\pp1.laboratorio\bicicletas.h
+	"Clientes.h"
+	"Validaciones.h"
+
+1603281654 c:\users\lauta\onedrive\desktop\codeblock ejercicios\trabajos practicos\pp1.laboratorio\tipos.h
+
+1603281646 c:\users\lauta\onedrive\desktop\codeblock ejercicios\trabajos practicos\pp1.laboratorio\color.h
+
+1603282259 source:c:\users\lauta\onedrive\desktop\codeblock ejercicios\trabajos practicos\pp1.laboratorio\tipos.c
+	"Tipos.h"
+	"string.h"
+	"stdio.h"
+
+1603155369 c:\users\lauta\onedrive\desktop\codeblock ejercicios\trabajos practicos\pp1.laboratorio\datastore.h
+
+1603282259 source:c:\users\lauta\onedrive\desktop\codeblock ejercicios\trabajos practicos\pp1.laboratorio\validaciones.c
+	"Validaciones.h"
+	"stdio.h"
+	"string.h"
+
+1603281640 c:\users\lauta\onedrive\desktop\codeblock ejercicios\trabajos practicos\pp1.laboratorio\validaciones.h
+	"Tipos.h"
+	"Color.h"
+	"servicios.h"
+	"fecha.h"
+
+1603281657 c:\users\lauta\onedrive\desktop\codeblock ejercicios\trabajos practicos\pp1.laboratorio\servicios.h
+
+1603282259 source:c:\users\lauta\onedrive\desktop\codeblock ejercicios\trabajos practicos\pp1.laboratorio\servicios.c
+	"servicios.h"
+	"stdio.h"
+	"string.h"
+
+1603283796 c:\users\lauta\onedrive\desktop\codeblock ejercicios\trabajos practicos\pp1.laboratorio\trabajo.h
+	"bicicletas.h"
+
+1603281648 c:\users\lauta\onedrive\desktop\codeblock ejercicios\trabajos practicos\pp1.laboratorio\fecha.h
+
+1603286787 source:c:\users\lauta\onedrive\desktop\codeblock ejercicios\trabajos practicos\pp1.laboratorio\trabajo.c
+	"trabajo.h"
+	"stdio.h"
+	"string.h"
+
+1603286969 source:c:\users\lauta\onedrive\desktop\codeblock ejercicios\trabajos practicos\pp1.laboratorio\clientes.c
+	"Clientes.h"
+	"stdio.h"
+	"string.h"
+
+1603284609 c:\users\lauta\onedrive\desktop\codeblock ejercicios\trabajos practicos\pp1.laboratorio\clientes.h
+
